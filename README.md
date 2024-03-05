@@ -14,8 +14,8 @@ The ODK-X Tool Suite consists of:
 - [ODK-X Survey](https://github.com/odk-x/survey) - A data collection application based upon HTML, CSS, JavaScript.
 - [ODK-X Tables](https://github.com/odk-x/tables) - A data curation and visualization application running on your mobile device.
 - [ODK-X Services](https://github.com/odk-x/services) - An application for handling database access, file access, and data synchronization services between all the ODK-X applications. It allows you to synchronize data collected by the ODK-X Android tools with a cloud endpoint.
-- [ODK-X Sync Endpoint](https://github.com/odk-x/sync-endpoint) - a cloud server to host data and application files, and to support bi-directional data synchronization across disconnected mobile devices.
-- [ODK-X Suitcase](https://github.com/odk-x/suitcase) - a desktop tool for synchronizing data with a cloud endpoint.
+- [ODK-X Sync Endpoint](https://github.com/odk-x/sync-endpoint) - A cloud server to host data and application files, and to support bi-directional data synchronization across disconnected mobile devices.
+- [ODK-X Suitcase](https://github.com/odk-x/suitcase) - A desktop tool for synchronizing data with a cloud endpoint.
 
 ## How to contribute
 If you’re new to ODK-X you can check out the documentation:
@@ -28,3 +28,6 @@ Issues tagged as [good first issue](https://github.com/odk-x/tool-suite-X/issues
 
 ## Links for users
 This document is aimed at helping developers and technical contributors. For information on how to get started as a user of ODK-X, see our [online documentation](https://docs.odk-x.org), or to learn more about the Open Data Kit project, visit [https://odk-x.org](https://odk-x.org).
+
+## Connect with us 
+Public chat - [https://forum.odk-x.org/](https://forum.odk-x.org/).
